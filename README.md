@@ -1,4 +1,4 @@
-# Strassen Algorithm  <div style="text-align: right", font-size : 30px;> 201301608 이재권 </div>
+# Strassen Algorithm 
 
 스트라센 알고리즘은 행렬의 곱연산을 수행할 때 행렬의 크기가 커질수록 연산속도는 n^3 으로 기하급수적으로 증가하게 된다.
 컴퓨터 구조적으로 곱연산보다 합연산이 더 효율적이기에 곱연산을 최소화 하고 합연산으로 변환 한 것이 스트라센 알고리즘이다.
